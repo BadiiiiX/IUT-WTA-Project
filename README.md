@@ -26,11 +26,11 @@ Il existe 5 commandes, à lancer de manière à faire : `nom_commande <arguments
 1. Compile the `main.c`
 2. Use the cmd to launch the commands!
 
-There are 5 commands, to be launched so as to do: `command_name <requested_ arguments>`:
+There are 5 commands, to be launched so as to do: `command_name <requested_arguments>`:
 - `` define_number_tournaments <number_of_tournament> ``
 - `tournament_register <tournament_name> <tournament_year>`
   - `<winning_name> <losing_name>`(to be done 127 times, 64 first being the 64th round)
-- `tournament_match_ display <tournament_name> <tournament_year>`
+- `tournament_match_display <tournament_name> <tournament_year>`
 - `tournament_player_display <tournament_name> <tournament_year>`
 - `display_player_match <player_name>`
 - `show_classification`
